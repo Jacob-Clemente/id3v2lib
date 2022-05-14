@@ -1,0 +1,5 @@
+project: hactool
+target: fuzz
+
+cmds:
+  - cmd: /fuzz @@
