@@ -1,5 +1,5 @@
-project: hactool
-target: fuzz
+project: id3v2lib
+target:  id3v2lib-fuzz
 
 cmds:
-  - cmd: /fuzz @@
+  - cmd: / id3v2lib-fuzz @@
