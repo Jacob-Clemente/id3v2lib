@@ -2,4 +2,4 @@ project: id3v2lib
 target:  id3v2lib-fuzz
 
 cmds:
-  - cmd: / id3v2lib-fuzz @@
+  - cmd: id3v2lib-fuzz @@
